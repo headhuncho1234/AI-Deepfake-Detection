@@ -7,7 +7,7 @@
    pip install -r requirements.txt
    ```
 
-## Data Configuration
+## Data Configuration 
 
 This project uses a specific directory structure for image data. **Note:** The `data/` directory is excluded from version control to save space.
 
